@@ -271,26 +271,26 @@ You are trying to delete the folder\n%s\nHowever, this folder contains a lot of 
 Registry Backups
 Deletes from Installed Programs List
 Deletes from Post Uninstaller
-Name
-Backup Size
-Time of Deletion
-Show Data
-Alternative Uninstall
-Silent Uninstall
-Modify
-Uninstall External Application
+பெயர்
+காப்பு அளவு
+நீக்கும் நேரம்
+தரவைக் காட்டு
+மாற்று நிறுவல் நீக்கம்
+அமைதியான நிறுவல் நீக்கம்
+மாற்றியமைக்கவும்
+வெளிப்புற பயன்பாட்டை நிறுவல் நீக்கவும்
 Badware
-Badware Finder
-Badware Searcher
-TMP File Searcher
-Only return Whole-Word-Style matches
-Are you sure?
-Are you sure you want to remove this backup-file? If you do, you will no longer be able to restore the data.
-Delete Backup
-Are you sure?
-Are you sure you want to remove this post uninstall file? If you do, you will not be able to search for leftovers for this program.
-Delete This Post Uninstall File
-Here the results of the search will be shown.\nUse the right-click menu to jump to the found data to make a more informed decision, or to broaden the result.\nWhen you find something you want to remove, select it. Once you�re done press the 'Remove' button.\n\nFiles and folders will be moved to the recycle bin, and registry keys and values will be backed up and deleted.\nRegistry backups can be restored from the Functions -> Registry Backups menu.
-Copy log to clipboard
-Donate using Paypal
-Donate using Trialpay
+Badware கண்டுபிடிப்பான்
+Badware தேடுபவர்
+TMP கோப்பு தேடுபொறி
+முழு-சொல்-பாணி பொருத்தங்களை மட்டும் திருப்பி அனுப்பவும்
+நீ சொல்வது உறுதியா?
+இந்த காப்புப் பிரதி கோப்பை நிச்சயமாக அகற்ற விரும்புகிறீர்களா? அவ்வாறு செய்தால், இனி உங்களால் தரவை மீட்டெடுக்க முடியாது.
+காப்புப்பிரதியை நீக்கு
+நீ சொல்வது உறுதியா?
+இந்த இடுகை நிறுவல் நீக்கக் கோப்பை நிச்சயமாக அகற்ற விரும்புகிறீர்களா? அப்படிச் செய்தால், இந்தத் திட்டத்தில் எஞ்சியவற்றைத் தேட முடியாது.
+இந்த இடுகை நிறுவல் நீக்க கோப்பை நீக்கவும்
+தேடலின் முடிவுகள் இங்கே காட்டப்படும்.\nமேலும் தகவலறிந்த முடிவெடுக்க அல்லது முடிவை விரிவுபடுத்த, கண்டறியப்பட்ட தரவுகளுக்குச் செல்ல வலது கிளிக் மெனுவைப் பயன்படுத்தவும்.\nநீங்கள் எதையாவது அகற்ற விரும்புவதைக் கண்டறிந்தால், அதைத் தேர்ந்தெடுக்கவும். நீங்கள் முடித்ததும் 'நீக்கு' பொத்தானை அழுத்தவும்.\n\nகோப்புகளும் கோப்புறைகளும் மறுசுழற்சி தொட்டிக்கு நகர்த்தப்படும், மேலும் ரெஜிஸ்ட்ரி விசைகளும் மதிப்புகளும் காப்புப் பிரதி எடுக்கப்பட்டு நீக்கப்படும்.\nசெயல்பாடுகள் -> பதிவேட்டில் இருந்து ரெஜிஸ்ட்ரி காப்புப்பிரதிகளை மீட்டெடுக்கலாம். காப்புப்பிரதிகள் மெனு.
+பதிவை இடைநிலைப் பலகைக்கு நகலெடுக்கவும்
+கட்டண நண்பனைப் பயன்படுத்தி நன்கொடை அளிக்கவும்
+சோதனை கட்டணம் பயன்படுத்தி நன்கொடை அளிக்கவும்

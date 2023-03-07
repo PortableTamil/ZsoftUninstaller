@@ -192,85 +192,85 @@ Save as...
 As big icons
 As small icons in the list
 Couldn't be deleted: 
-Directory deleted: 
-Registry entry deleted: 
-Registry entry created: 
-Registry entry NOT created: 
-Registry entry NOT deleted: 
-Registry key deleted: 
-Registry key created: 
-Registry key NOT created: 
-Please stand by...
-Delete to recycle bin
-Delete File(s) to Recycle Bin
-Are you sure you want to delete this/these file(s) to the recycle bin?
-Select All
-%d files found, totaling %s.
-Sort List After
-Name (ascending)
-Name (descending)
-Time (ascending)
-Time (descending)
-Remove from Hidden List
-Edit
-Filesystem
-Registry
-Edit Analyzed Log
-You have made changes in the logfile. Do you want to save these changes?
-Do you want to save your changes?
-Change Background Color Of
-Add item to ignore-list (Analyze-feature)
-In this window you can see (and navigate) the recorded changes made bythe analyzed installation.\nYou can delete items from the log (a backup will be created, just in case),\nand you can add folders and keys to the ignore list, so they won't be recorded in the future.
-Empty Folders Finder
-Scan this directory for empty folders:
-Only scan top-level
-Start Scan
-Dir
-Scan this directory
-Remove Selected
-Tools
-Startup Manager
-Name
-Launches
-Disable
-Enable
-Copy program name to clipboard
-Text '%s' copied to clipboard!
-Hide Search-Bar
-The program %s should now be uninstalled. Do you want to search for leftovers?
-Search for leftovers?
-I've extracted these keywords to search for. It is recommended that you edit them if needed. Use one keyword per line. When you're done click 'Next'.
-Next >>
-Jump To
-Go one level up
-Place
-Type
-Path
-Value
-Post Uninstall Manager
-Program Name
-Perform Post Uninstall on selected program
-By
-Version
-Open Install Folder
-Some files or registry entries could not be removed or re-created.\nDo you want to save these entries in a new logfile?
-Do you want to save a new logfile?
-Do you want to search for leftovers for the program?
-Post Uninstall Scanner
-Searching... Please Wait.
-Remove
-Are you sure?
-Are you sure you want to continue?
-Use this option, if you have already started and analysis - for\ninstance if the installation required you to reboot.
-For a more accurate installation log it is recommended that you\nopen and configure the installed program before running the 'After Installation' scan.
-It is recommended that you uninstall the application with the programs\nown uninstall-routine first (main window of ஃமென் Uninstaller),\nand then come back here to remove all traces.
-Here you can see all the changes recorded.\nIf you need to change this, you can choose 'Edit'\nfrom the right-click popup-menu in the main window.
-This is a list of applications you have uninstalled in this session,\nbut still haven't run a 'Post Uninstall' on.\nDouble-click on an application name to start the Post Uninstall.
-Folder contains a lot of data
-You are trying to delete the folder\n%s\nHowever, this folder contains a lot of data. Are you sure you want to remove it?
-Registry Backups
-Deletes from Installed Programs List
-Deletes from Post Uninstaller
+கோப்பகம் நீக்கப்பட்டது:
+பதிவேட்டில் பதிவு நீக்கப்பட்டது:
+பதிவேட்டில்  பதிவு உருவாக்கப்பட்டது:
+பதிவேட்டில்  பதிவு உருவாக்கப்படவில்லை:
+பதிவேட்டில்  பதிவு நீக்கப்படவில்லை:
+பதிவேட்டில்  விசை நீக்கப்பட்டது:
+பதிவேட்டில்  விசை உருவாக்கப்பட்டது:
+பதிவேட்டில்  விசை உருவாக்கப்படவில்லை:
+கொஞ்சம் பொறுங்கள்...
+மறுசுழற்சி தொட்டிக்கு நீக்கவும்
+மறுசுழற்சி தொட்டிக்கு கோப்பு(களை) நீக்கவும்
+இதை/இந்தக் கோப்பை(களை) மறுசுழற்சி தொட்டியில் நிச்சயமாக நீக்க விரும்புகிறீர்களா?
+அனைத்தையும் தெரிவுசெய்
+%d கோப்புகள் கண்டறியப்பட்டன, மொத்தம் %s.
+பிறகு பட்டியலை வரிசைப்படுத்தவும்
+பெயர் (ஏறுவரிசை)
+பெயர் (இறங்கும்)
+நேரம் (ஏறுதழுவுதல்)
+நேரம் (இறங்கும்)
+மறைக்கப்பட்ட பட்டியலிலிருந்து அகற்று
+தொகு
+கோப்பு முறை
+பதிவேடு
+பகுப்பாய்வு செய்யப்பட்ட பதிவைத் திருத்தவும்
+பதிவுக்கோப்பில் மாற்றங்களைச் செய்துள்ளீர்கள். இந்த மாற்றங்களைச் சேமிக்க விரும்புகிறீர்களா?
+உங்கள் மாற்றங்களைச் சேமிக்க விரும்புகிறீர்களா?
+பின்னணி நிறத்தை மாற்றவும்
+புறக்கணிப்பு பட்டியலில் உருப்படியைச் சேர்க்கவும் (பகுப்பாய்வு-அம்சம்)
+இந்தச் சாளரத்தில், பகுப்பாய்வு செய்யப்பட்ட நிறுவலின் மூலம் பதிவுசெய்யப்பட்ட மாற்றங்களை நீங்கள் பார்க்கலாம் (மற்றும் வழிசெலுத்தலாம்).\nபதிவில் இருந்து உருப்படிகளை நீக்கலாம் (ஒரு காப்புப்பிரதி உருவாக்கப்படும்),\nபுறக்கணிப்பு பட்டியலில் கோப்புறைகளையும் விசைகளையும் சேர்க்கலாம். , அதனால் அவை எதிர்காலத்தில் பதிவு செய்யப்படாது.
+வெற்று கோப்புறைகள் கண்டுபிடிப்பான்
+வெற்று கோப்புறைகளுக்கு இந்த கோப்பகத்தை வருடவும்:
+மேல் மட்டத்தில் மட்டும் வருடவும்
+வருட தொடங்கவும்
+கோப்புறை
+இந்த கோப்பகத்தை வருடவும்
+தேர்ந்தெடுக்கப்பட்டதை அகற்று
+கருவிகள்
+தொடக்க மேலாளர்
+பெயர்
+துவக்குகிறது
+முடக்கு
+இயக்கு
+நிரல் பெயரை இடைநிலைப் பலகைக்கு நகலெடுக்கவும்
+'%s' என்ற உரை இடைநிலைப் பலகைக்கு நகலெடுக்கப்பட்டது!
+தேடல் பட்டியை மறை
+நிரல் %s இப்போது நிறுவல் நீக்கப்பட வேண்டும். எஞ்சியவற்றைத் தேட விரும்புகிறீர்களா?
+மிச்சத்தை தேடவா?
+தேடுவதற்காக இந்த முக்கிய வார்த்தைகளை பிரித்தெடுத்துள்ளேன். தேவைப்பட்டால், அவற்றைத் திருத்த பரிந்துரைக்கப்படுகிறது. ஒரு வரிக்கு ஒரு முக்கிய சொல்லைப் பயன்படுத்தவும். நீங்கள் முடித்ததும் 'அடுத்து' என்பதைக் கிளிக் செய்யவும்.
+அடுத்து >>
+செல்லவும்
+ஒரு நிலை மேலே செல்லுங்கள்
+இடம்
+வகை
+பாதை
+மதிப்பு
+நிறுவல் நீக்குதல் பின் மேலாளர்
+திட்டத்தின் பெயர்
+தேர்ந்தெடுக்கப்பட்ட நிரலை நீக்கியபின் இயக்கவும்
+மூலம்
+பதிப்பு
+நிறுவல் கோப்புறையைத் திறக்கவும்
+சில கோப்புகள் அல்லது பதிவேடு உள்ளீடுகளை அகற்றவோ அல்லது மீண்டும் உருவாக்கவோ முடியவில்லை.\nஇந்த உள்ளீடுகளை புதிய பதிவுக்கோப்பில் சேமிக்க விரும்புகிறீர்களா?
+புதிய பதிவுக் கோப்பைச் சேமிக்க விரும்புகிறீர்களா?
+நிரலுக்கான எஞ்சியவற்றைத் தேட விரும்புகிறீர்களா?
+நிறுவல் நீக்கியபின் வருடி
+தேடுகிறது... காத்திருக்கவும்.
+அகற்று
+நீ சொல்வது உறுதியா?
+நீங்கள் நிச்சயமாக தொடர விரும்புகிறீர்களா?
+நீங்கள் ஏற்கனவே தொடங்கி பகுப்பாய்வு செய்திருந்தால், இந்த விருப்பத்தைப் பயன்படுத்தவும் - உதாரணமாக\nஉதாரணமாக நிறுவலுக்கு நீங்கள் மறுதொடக்கம் செய்ய வேண்டும்.
+மிகவும் துல்லியமான நிறுவல் பதிவிற்கு, 'நிறுவலுக்குப் பிறகு' வருடி இயக்கும் முன் நிறுவப்பட்ட நிரலைத் திறந்து கட்டமைக்க பரிந்துரைக்கப்படுகிறது.
+நிரல்களுடன் பயன்பாட்டை நிறுவல் நீக்கம் செய்ய பரிந்துரைக்கப்படுகிறது\nமுதலில் நிறுவல் நீக்க-வழக்கமானது (ஃமென் நீக்கியின் பிரதான சாளரம்),\nபின்னர் அனைத்து தடயங்களையும் அகற்ற இங்கே மீண்டும் வரவும்.
+பதிவுசெய்யப்பட்ட அனைத்து மாற்றங்களையும் இங்கே காணலாம்.\nஇதை நீங்கள் மாற்ற வேண்டும் என்றால், பிரதான சாளரத்தில் வலது கிளிக் பாப்-அப் மெனுவிலிருந்து 'திருத்து' என்பதைத் தேர்ந்தெடுக்கலாம்.
+இந்த அமர்வில் நீங்கள் நிறுவல் நீக்கிய பயன்பாடுகளின் பட்டியல் இது,\nஆனால் இன்னும் 'இடுகை நீக்குதல்' இயக்கப்படவில்லை.\nஇடுகை நீக்குதலைத் தொடங்க, பயன்பாட்டின் பெயரில் இருமுறை கிளிக் செய்யவும்.
+கோப்புறையில் நிறைய தரவு உள்ளது
+நீங்கள் கோப்புறையை நீக்க முயற்சிக்கிறீர்கள்\n%s\nஇருப்பினும், இந்த கோப்புறையில் நிறைய தரவு உள்ளது. நிச்சயமாக அதை அகற்ற விரும்புகிறீர்களா?
+பதிவேட்டில் காப்புப்பிரதிகள்
+நிறுவப்பட்ட நிரல்களின் பட்டியலிலிருந்து நீக்குகிறது
+நிறுவல் நீக்கிய பின்னிலிருந்து நீக்குகிறது
 பெயர்
 காப்பு அளவு
 நீக்கும் நேரம்
@@ -279,9 +279,9 @@ Deletes from Post Uninstaller
 அமைதியான நிறுவல் நீக்கம்
 மாற்றியமைக்கவும்
 வெளிப்புற பயன்பாட்டை நிறுவல் நீக்கவும்
-Badware
-Badware கண்டுபிடிப்பான்
-Badware தேடுபவர்
+மோசமான பொருட்கள்
+மோசமான பொருட்கள் கண்டுபிடிப்பான்
+மோசமான பொருட்கள் தேடுபவர்
 TMP கோப்பு தேடுபொறி
 முழு-சொல்-பாணி பொருத்தங்களை மட்டும் திருப்பி அனுப்பவும்
 நீ சொல்வது உறுதியா?

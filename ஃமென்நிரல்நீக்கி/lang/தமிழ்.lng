@@ -108,29 +108,29 @@
 புதிய பொருளைச் சேர்க்கவும்
 அகற்று (திரும்ப முடியாது)
 புதிய மதிப்பு:
-Name of new item:
-Content of new item:
-Are you sure you want to remove this item from the registry?\nPlease note that this cannot be undone!\nDo you wish to continue?
-Are you sure?
-Installed Programs
-Analyzed Programs
-&Temp File Finder
-Start Search
-Stop Search
-Search this drive:
-Filename
-Extension
-Place
-Size
-Search stopped by user
-Searching in:
-Search finished
-Delete File(s) (can't be reversed)
-Are you sure?
-Are you sure you want to delete this/these file(s)?\nPlease note that this cannot be undone!\nDo you wish to continue?
-Folder might not be gone
-I think that this was the folder the program was installed into:\n%s\nIs that correct?\nDo you wish to remove this directory? (This can't be reversed!)
-Backup && delete file(s)
+புதிய பொருளின் பெயர்:
+புதிய பொருளின் உள்ளடக்கம்:
+பதிவேட்டில் இருந்து இந்த உருப்படியை நிச்சயமாக அகற்ற விரும்புகிறீர்களா?\nஇதைச் செயல்தவிர்க்க முடியாது என்பதை நினைவில் கொள்ளவும்!\nதொடர விரும்புகிறீர்களா?
+நீ சொல்வது உறுதியா?
+நிறுவப்பட்ட நிரல்கள்
+பகுப்பாய்வு செய்யப்பட்ட திட்டங்கள்
+&தற்காலிக கோப்பு கண்டுபிடிப்பான்
+தேடலைத் தொடங்கு
+தேடலை நிறுத்து
+இந்த இயக்ககத்தில் தேடவும்:
+கோப்பு பெயர்
+நீட்டிப்பு
+இடம்
+அளவு
+பயனரால் தேடுதல் நிறுத்தப்பட்டது
+இதில் தேடுகிறது:
+தேடல் முடிந்தது
+கோப்பு(களை) நீக்கு (மாற்றியமைக்க முடியாது)
+நீ சொல்வது உறுதியா?
+இதை/இந்தக் கோப்பை(களை) நிச்சயமாக நீக்க விரும்புகிறீர்களா?\nஇதைச் செயல்தவிர்க்க முடியாது என்பதை நினைவில் கொள்ளவும்!\nதொடர விரும்புகிறீர்களா?
+கோப்புறை இல்லாமல் இருக்கலாம்
+நிரல் நிறுவப்பட்ட கோப்புறை இது என்று நினைக்கிறேன்:\n%s\nஅது சரியா?\nஇந்த கோப்பகத்தை அகற்ற விரும்புகிறீர்களா? (இதை மாற்ற முடியாது!)
+கோப்பு(களை) காப்புப் பிரதி && நீக்கு
 நீ சொல்வது உறுதியா?
 இது தேர்ந்தெடுக்கப்பட்ட கோப்புகளை நீக்கும். எனினும் நீங்கள் விரும்பினால் அவற்றை பின்னர் நீக்கிவிடலாம்.\nதொடர விரும்புகிறீர்களா?
 காப்புப்பிரதிகள்

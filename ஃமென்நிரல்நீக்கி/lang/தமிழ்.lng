@@ -67,47 +67,47 @@
 ; பகுப்பாய்வு செயல்பாடு
 ;
 வரவேற்பு!
-This guide will get you through a process where you can either analyze an installation or uninstall a previous analyzed program completely.
-What do you wish to do?
-&Analyze an installation
-&Uninstall a previous analyzed program
-&Cancel
-&Next >>
-Before you start the installation 'an image' of your computer needs to be created. Choose below which harddrive(s) you wish to analyze. Normally the C-drive and the drive you install to (if different) is sufficient.
-Drives
-&Before Installation
-&After Installation
-Files Found (approx): 
-Reg. Found (approx): 
-Time taken (in sec.): 
-Comparing... Please Wait!
-Enter Application Name
-Enter the name of the application you have installed below.
-ERROR: File Exists @ Enter Application Name
-ERROR: File Exists. Enter a uniqe name of the application you have installed below.
-Task finished. The window will now close.
-Choose from below which previous analyzed program you wish to uninstall.
-Now, confirm the following:
-I understand that I do this on my own responsibility
-I understand that the files being deleted cannot be undeleted
-I will not hold the programmer responsible for loss of data etc.
-Uninstall
-You need to choose which program you wish to uninstall!
-You need to confirm that you understand: 
-I don't want to confirm every delete
-The file "%s" is new; do you want to delete it?
-Want to delete file?
-Do you want to delete the log file?
-Delete log file?
-Deleted: 
-The dir "%s" could not be deleted - maybe it's not empty
-%d file(s) seem to be deleted, but this is not an undelete tool!
-Registry Key "%s" is not empty and will not be removed!
-Malformed Log!
-Done
-Add New Item
-Remove (can't be reversed)
-New Value:
+இந்த வழிகாட்டி ஒரு செயல்முறையின் மூலம் உங்களைப் பெறுகிறது, அங்கு நீங்கள் ஒரு நிறுவலை பகுப்பாய்வு செய்யலாம் அல்லது முந்தைய பகுப்பாய்வு செய்யப்பட்ட நிரலை முழுவதுமாக நிறுவல் நீக்கலாம்.
+நீங்கள் என்ன செய்ய விரும்புகிறீர்கள்?
+&ஒரு நிறுவலை பகுப்பாய்வு செய்யவும்
+&முந்தைய பகுப்பாய்வு செய்யப்பட்ட நிரலை நிறுவல் நீக்கவும்
+&ரத்துசெய்
+&அடுத்து >>
+நிறுவலைத் தொடங்குவதற்கு முன், உங்கள் கணினியின் 'ஒரு படம்' உருவாக்கப்பட வேண்டும். நீங்கள் பகுப்பாய்வு செய்ய விரும்பும் ஹார்ட் டிரைவ்(களை) கீழே தேர்வு செய்யவும். பொதுவாக சி-டிரைவ் மற்றும் நீங்கள் நிறுவும் டிரைவ் (வேறுபட்டால்) போதுமானது.
+இயக்கிகள்
+&நிறுவலுக்கு முன்
+&நிறுவலுக்குப் பிறகு
+கோப்புகள் கிடைத்தன (தோராயமாக):
+ரெஜி. கிடைத்தது (தோராயமாக):
+எடுக்கப்பட்ட நேரம் (செக்கனில்):
+ஒப்பிடுகிறது... தயவு செய்து காத்திருங்கள்!
+விண்ணப்பத்தின் பெயரை உள்ளிடவும்
+நீங்கள் நிறுவிய பயன்பாட்டின் பெயரை கீழே உள்ளிடவும்.
+பிழை: கோப்பு உள்ளது @ விண்ணப்பத்தின் பெயரை உள்ளிடவும்
+பிழை: கோப்பு உள்ளது. நீங்கள் நிறுவிய பயன்பாட்டின் தனிப்பட்ட பெயரை கீழே உள்ளிடவும்.
+பணி முடிந்தது. சாளரம் இப்போது மூடப்படும்.
+எந்த முந்தைய பகுப்பாய்வு செய்யப்பட்ட நிரலை நீங்கள் நிறுவல் நீக்க விரும்புகிறீர்கள் என்பதை கீழே இருந்து தேர்வு செய்யவும்.
+இப்போது, பின்வருவனவற்றை உறுதிப்படுத்தவும்:
+நான் எனது சொந்தப் பொறுப்பில் இதைச் செய்கிறேன் என்பதை நான் புரிந்துகொள்கிறேன்
+நீக்கப்படும் கோப்புகளை நீக்க முடியாது என்பதை நான் புரிந்துகொள்கிறேன்
+தரவு இழப்பு போன்றவற்றுக்கு புரோகிராமரை நான் பொறுப்பாக்க மாட்டேன்.
+நிறுவல் நீக்கவும்
+எந்த நிரலை நிறுவல் நீக்க வேண்டும் என்பதை நீங்கள் தேர்வு செய்ய வேண்டும்!
+நீங்கள் புரிந்து கொண்டீர்கள் என்பதை உறுதிப்படுத்த வேண்டும்:
+ஒவ்வொரு நீக்குதலையும் நான் உறுதிப்படுத்த விரும்பவில்லை
+"%s" கோப்பு புதியது; அதை நீக்க வேண்டுமா?
+கோப்பை நீக்க வேண்டுமா?
+பதிவு கோப்பை நீக்க வேண்டுமா?
+பதிவு கோப்பை நீக்கவா?
+நீக்கப்பட்டது:
+"%s" ஐ நீக்க முடியவில்லை - ஒருவேளை அது காலியாக இல்லாமல் இருக்கலாம்
+%d கோப்பு(கள்) நீக்கப்பட்டதாகத் தெரிகிறது, ஆனால் இது நீக்கப்படாத கருவி அல்ல!
+பதிவு விசை "%s" காலியாக இல்லை மற்றும் அகற்றப்படாது!
+தவறான பதிவு!
+முடிந்தது
+புதிய பொருளைச் சேர்க்கவும்
+அகற்று (திரும்ப முடியாது)
+புதிய மதிப்பு:
 Name of new item:
 Content of new item:
 Are you sure you want to remove this item from the registry?\nPlease note that this cannot be undone!\nDo you wish to continue?
